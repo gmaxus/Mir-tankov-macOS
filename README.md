@@ -27,7 +27,7 @@ xattr -r -c /Applications/Tanki.app
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/22.jpg">
 
-Запустите LGC – начнётся скачивание
+Запустите **LGC** – начнётся скачивание
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/0.jpg">
 
@@ -37,11 +37,11 @@ xattr -r -c /Applications/Tanki.app
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/2.jpg">
 
-Закройте Lesta Game Center
+Закройте **Lesta Game Center**
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/3.jpg">
 
-Запустите Tanki
+Запустите **Tanki**
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/4.jpg">
 
@@ -53,18 +53,18 @@ xattr -r -c /Applications/Tanki.app
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/6.jpg">
 
-Если вы видите что Мир танков стал сообщать о необходимости обновления игры, то запустите LGC (Мир танков при этом должен быть закрыт) он скачает и установит все обновления сам
+Если вы видите что Мир танков стал сообщать о необходимости обновления игры, то запустите **LGC** (Мир танков при этом должен быть закрыт) он скачает и установит все обновления сам
 
-После того как обновления будут установлены, закройте Lesta Game Center и только после этого запускайте Мир танков 
+После того как обновления будут установлены, закройте **Lesta Game Center** и только после этого запускайте **Мир танков** 
 
 
 
 # Доработки
-Чтобы отображался магазин отключите Аппаратное ускорение браузера
+Чтобы отображался магазин отключите **Аппаратное ускорение браузера**
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/shop-fix.jpg">
 
-Если возникнут подлагивания звука, то это лечится включением опции Низкое качество в настройках звука. У меня такой проблемы нет, но есть на Crossover
+Если возникнут подлагивания звука, то это лечится включением опции **Низкое качество** в настройках звука. У меня такой проблемы нет, но есть на Crossover
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/sound-fix.jpg">
 
@@ -81,7 +81,7 @@ xattr -r -c /Applications/Tanki.app
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/9.jpg">
 
-Затем **Choose Setup Executable**
+Затем **Choose Setup Executable** и выберите установочный файл модов
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/10.jpg">
 
