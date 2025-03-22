@@ -16,8 +16,7 @@
 ``` text
 http://xerocop.ru/git/tanki-V3.zip
 ```
-
-* [Скачайте](https://github.com/gmaxus/Mir-tankov-macOS/raw/refs/heads/main/tanki.zip)
+* Скачайте
 * Разархивируйте
 * Переместите **LGC** и **Tanki** (выделены на скриншоте) в папку **Программы**
 
