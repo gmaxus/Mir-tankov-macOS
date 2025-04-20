@@ -12,6 +12,10 @@
 * Занимает около 85 Гб
 * Предназначена для Стандартной графики
 
+### Отблагодарить меня можно на бусти
+#### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
+
+
 ## Установка
 ``` text
 http://xerocop.ru/git/tanki-V3.zip
