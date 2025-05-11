@@ -12,9 +12,10 @@
 * Занимает около 85 Гб
 * Предназначена для Стандартной графики
 
-### Отблагодарить меня можно на бусти
+### На бусти появилась сборка с работающим Lesta Game Center
 #### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/macOS-LGC.jpg">
 
 ## Установка
 ``` text
