@@ -1,18 +1,13 @@
-# Как играть в Мир танков на macOS
-Мир танков отлично работает на macOS без Windows на эмуляторах основанных на [Wine](https://winehq.org/) таких  как [Crossover](https://www.codeweavers.com/crossover) или [Whiskey](https://getwhisky.app/). Но к сожалению [Lesta Game Center](https://redirect.lesta.ru/LGC/Lesta_Game_Center_Install_RU.exe)(LGC) который скачивает и обновляет Мир танков не может нормально работать на эмуляторах
+# Мир танков на macOS
 
 Данная сборка:
-
 * Без виртуальной Windows
 * Может скачивать и устанавливать обновления Мира танков
-* Нет глюков с вращающимеся гусеницами
-* Магазин отображается без искажений
-* Нет проблем с изменёнными цветами
-* По умолчанию скачивается HD клиент
-* Занимает около 85 Гб
-* Предназначена для Стандартной графики
+* По умолчанию скачивается HD клиент (~ 85 Гб)
+* Предназначена для Стандартной графики (M1 Pro 100+ FPS)
+* [Поддерживает установку модов](#установка-модов)
 
-### На бусти появилась сборка с работающим Lesta Game Center
+### Выложил на бусти сборку с работающим Lesta Game Center
 #### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/macOS-LGC.jpg">
