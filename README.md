@@ -7,8 +7,9 @@
 * Предназначена для Стандартной графики (M1 Pro 100+ FPS)
 * [Поддерживает установку модов](#установка-модов)
 
-### Выложил на бусти сборку с работающим Lesta Game Center
-#### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
+### Сборка с работающим Lesta Game Center на macOS
+### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
+### [https://www.patreon.com/pmaxus](https://www.patreon.com/pmaxus)
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/macOS-LGC.jpg">
 
