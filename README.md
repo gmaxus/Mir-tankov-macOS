@@ -15,20 +15,10 @@
 
 ## Установка
 ``` text
-http://xerocop.ru/git/tanki-V3.zip
-```
-* Скачайте
-* Разархивируйте
-* Переместите **LGC** и **Tanki** в папку **Программы**
-
-Выполните следующую команду в **Терминале**
-```text
-xattr -r -c /Applications/Tanki.app
+http://xerocop.ru/git/tanki-v4.pkg
 ```
 
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/22.jpg">
-
-Запустите **LGC** – начнётся скачивание
+После установки запустите **LGC**, начнётся скачивание
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/0.jpg">
 
