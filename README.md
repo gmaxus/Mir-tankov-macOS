@@ -9,9 +9,6 @@
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/macOS-LGC.jpg">
 
-### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
-### [https://www.patreon.com/pmaxus](https://www.patreon.com/pmaxus)
-
 ### Сборка для тех у кого проблемы с подключением к серверу
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error.png">
