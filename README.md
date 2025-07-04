@@ -13,6 +13,10 @@
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error.png">
 
+### Мир кораблей на macOS
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/mir-korabley.jpg">
+
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
 ## Установка
