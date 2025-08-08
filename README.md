@@ -5,16 +5,12 @@
 * Поддерживает улучшенную графику (M1 Pro 60+ FPS)
 * [Поддерживает установку модов](#установка-модов)
 
-### Сборка с работающим Lesta Game Center на macOS
+### Сборка с Lesta Game Center на macOS
 
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/macOS-LGC.jpg">
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Jbp7TyxL8Zk/0.jpg)](https://www.youtube.com/watch?v=Jbp7TyxL8Zk)
 
-### Сборка для тех у кого проблемы с подключением к серверу
-
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error.png">
-
-Обе располагаются на бусти:
-### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
+Располагаются на Boosty:
+#### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
 ## Установка
 Скачайте и следуйте инструкциям установщика
