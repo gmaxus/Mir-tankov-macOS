@@ -8,6 +8,7 @@
 ### Сборка с Lesta Game Center на macOS
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Jbp7TyxL8Zk/0.jpg)](https://www.youtube.com/watch?v=Jbp7TyxL8Zk)
+[https://www.youtube.com/watch?v=Jbp7TyxL8Zk](https://www.youtube.com/watch?v=Jbp7TyxL8Zk)
 
 Располагаются на Boosty:
 #### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
