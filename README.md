@@ -25,10 +25,6 @@ http://xerocop.ru/git/tanki-v4.1.dmg
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/shop-fix.jpg">
 
-Если возникнут подлагивания звука, то это лечится включением опции **Низкое качество** в настройках звука. С этой сборке такой проблемы нет, но есть на Crossover
-
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/sound-fix.jpg">
-
 # Установка модов
 В **Программах** нажмите правой кнопкой мыши по **Мир танков** и выберете **Показать содержимое пакета**
 
