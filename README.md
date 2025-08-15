@@ -11,7 +11,7 @@
 
 [https://www.youtube.com/watch?v=Jbp7TyxL8Zk](https://www.youtube.com/watch?v=Jbp7TyxL8Zk)
 
-Располагаются на Boosty:
+Располагается на Boosty:
 #### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
 ## Установка
