@@ -7,11 +7,17 @@
 
 ### Сборка с Lesta Game Center на macOS
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Jbp7TyxL8Zk/0.jpg)](https://www.youtube.com/watch?v=Jbp7TyxL8Zk)
+[![Yotube](https://img.youtube.com/vi/SjnLMt_6Ow4/0.jpg)](https://www.youtube.com/watch?v=SjnLMt_6Ow4)
 
-[https://www.youtube.com/watch?v=Jbp7TyxL8Zk](https://www.youtube.com/watch?v=Jbp7TyxL8Zk)
+Смотреть видео:
 
-Располагается на Boosty:
+[![Yotube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://www.youtube.com/watch?v=SjnLMt_6Ow4)
+[![Rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/f94d52e251b9a8898f962a7fb90a3216/)
+
+[https://www.youtube.com/watch?v=SjnLMt_6Ow4](https://www.youtube.com/watch?v=SjnLMt_6Ow4)
+[https://rutube.ru/video/f94d52e251b9a8898f962a7fb90a3216/](https://rutube.ru/video/f94d52e251b9a8898f962a7fb90a3216/)
+
+### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 #### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
 ## Установка
