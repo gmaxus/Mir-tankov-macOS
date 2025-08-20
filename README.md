@@ -19,7 +19,6 @@
 [https://rutube.ru/video/f94d52e251b9a8898f962a7fb90a3216/](https://rutube.ru/video/f94d52e251b9a8898f962a7fb90a3216/)
 
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
-#### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
 ## Установка
 Скачайте и следуйте инструкциям установщика
