@@ -23,7 +23,7 @@
 ## Установка
 Скачайте и следуйте инструкциям установщика
 ``` text
-http://xerocop.ru/git/tanki-v4.1.dmg
+http://thisismypage.ru/git/tanki-v4.1.dmg
 ```
 
 # Доработки
