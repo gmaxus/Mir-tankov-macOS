@@ -7,16 +7,12 @@
 
 ### Сборка с Lesta Game Center на macOS
 
-[![Yotube](https://img.youtube.com/vi/SjnLMt_6Ow4/0.jpg)](https://www.youtube.com/watch?v=SjnLMt_6Ow4)
+[![Rutube](https://pic.rutubelist.ru/video/2025-09-08/23/36/2336a4faf24c682f34411c81b0147804.jpg)](https://rutube.ru/video/private/76e111d69eda2a9fe5c287d89f3c9aa7/?p=P-LlliPge905CpPwKfNnWg)
 
 Смотреть видео:
 
-[![Yotube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://www.youtube.com/watch?v=SjnLMt_6Ow4)
-[![Rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/f94d52e251b9a8898f962a7fb90a3216/)
-
-[https://www.youtube.com/watch?v=SjnLMt_6Ow4](https://www.youtube.com/watch?v=SjnLMt_6Ow4)
-
-[https://rutube.ru/video/f94d52e251b9a8898f962a7fb90a3216/](https://rutube.ru/video/f94d52e251b9a8898f962a7fb90a3216/)
+[![Rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/76e111d69eda2a9fe5c287d89f3c9aa7/)
+[![Yotube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://youtu.be/3Efs_gGURyY)
 
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
