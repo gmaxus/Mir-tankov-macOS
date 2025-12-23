@@ -1,26 +1,30 @@
 # Мир танков на macOS
 
-Данная сборка позволяет играть в Мир танков без виртуальной Windows в 1 клик на macOS как с Intel процессором так и с Apple silicon.
-* По умолчанию скачивается SD клиент (~ 55 Гб)
-* Поддерживает улучшенную графику (M1 Pro 60+ FPS)
+Данная сборка позволяет играть в Мир танков без виртуальной Windows в 1 клик на macOS с Apple silicon и Intel процессором.
+
 * [Поддерживает установку модов](#установка-модов)
+* [Настройки для Intel/AMD/Hackintosh](#настройки-для-intel)
+* [Реплеи](#реплеи)
+* [Шрифты (DXMT)](#DXMT)
 
-### Сборка с Lesta Game Center на macOS
+Видео с геймплеем(иконки кликабельны):
 
-[![Rutube](https://pic.rutubelist.ru/video/2025-09-08/23/36/2336a4faf24c682f34411c81b0147804.jpg)](https://rutube.ru/video/private/76e111d69eda2a9fe5c287d89f3c9aa7/?p=P-LlliPge905CpPwKfNnWg)
-
-Смотреть видео:
-
-[![Rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/76e111d69eda2a9fe5c287d89f3c9aa7/)
-[![Yotube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://youtu.be/3Efs_gGURyY)
-
-### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
+<a href="https://rutube.ru/video/76e111d69eda2a9fe5c287d89f3c9aa7/" target="_blank">
+  <img src="https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg" width="100px"/>
+</a>
+<a href="https://youtu.be/3Efs_gGURyY" target="_blank">
+  <img src="https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png" width="100px"/>
+</a>
 
 ## Установка
 Скачайте и следуйте инструкциям установщика
 ``` text
 http://thisismypage.ru/git/tanki-v4.1.dmg
 ```
+
+## Мой бусти
+### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
+Если хотите отблагодарить меня за проделанную работу
 
 # Доработки
 Чтобы отображался магазин отключите **Аппаратное ускорение браузера**
@@ -49,3 +53,67 @@ http://thisismypage.ru/git/tanki-v4.1.dmg
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/11.jpg">
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/12.jpg">
+
+# Установка на внешний диск
+
+1. Перенесите Мир танков и Обновить танки в **Applications**
+2. Запустите файл **Команда**
+3. Перенесите Мир танков и Обновить танки в **необходимое вам место**
+4. Далее все действия производить в папке в которую перенесли 
+5. Запустите **Обновить танки**
+6. Дождитесь завершения загрузки Танков
+7. Закройте **Обновить танки**
+8. Запустите **Мир Танков**
+
+Для обновления используйте **Обновить танки**
+
+
+# Настройки для Intel
+
+Нажать **Показать содержимое пакета**
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/intel/1.jpg">
+
+Запустить **Kegworks Config.app**
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/intel/2.jpg">
+
+Убрать **галочку**
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/intel/3.jpg">
+
+На владке **Advanced** добавить галочку **MoltenVK FastMath** 
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/intel/4.jpg">
+
+
+# Реплеи
+
+Выполните команду в терминале:
+
+``` text
+ln -s "/Applications/Мир танков.app/Contents/SharedSupport/prefix/drive_c/Games" "/Applications/Tanki"
+```
+
+После чего в папке Программы появится папка Tanki
+
+# DXMT
+
+Можно вылечить шрифты и получить ~20% прирост в FPS, но будут другие проблемы:
+1. При НЕ высокой графике проблемы с мышкой в бою – в право она очень плохо двигается, при том что в лево всё идеально
+2. Не сильно существенные баги в ангаре
+3. Нельзя менять пропорции разрешения дисплея, всегда будет максимальное(21:13 для ноутбуков М-серии), из-за чего чёлка будет закрывать часть дисплея
+
+В некоторых случаях это рабочий вариант
+
+Нажать **Показать содержимое пакета**
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/dxmt/1.jpg">
+
+Запустить **Kegworks Config.app**
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/dxmt/2.jpg">
+
+Выбрать **галочку**
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/dxmt/3.jpg">
