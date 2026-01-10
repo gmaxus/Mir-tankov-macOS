@@ -7,7 +7,7 @@
 * [Реплеи](#реплеи)
 * [Шрифты (DXMT)](#DXMT)
 
-Видео с геймплеем(иконки кликабельны):
+Видео с геймплеем (иконки кликабельны):
 
 <a href="https://rutube.ru/video/76e111d69eda2a9fe5c287d89f3c9aa7/" target="_blank">
   <img src="https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg" width="100px"/>
@@ -22,13 +22,22 @@
 http://thisismypage.ru/git/tanki-v4.1.dmg
 ```
 
+## Актуальные версии:
+| Описание               | Версия |
+|------------------------|:------:|
+| Публичная (github)     |  4.1   |
+| Версия с ЛГЦ* (boosty) |  4.1   |
+| Бета-версия (boosty)   |  4.5   |
+
+    * Леcта Гейм Центр
+
 ## Мой бусти
 Если хотите отблагодарить меня за проделанную работу
 
 А также здесь располагается дополнительный платный контент
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
-# Доработки
+# Внутренний магазин
 Чтобы отображался магазин отключите **Аппаратное ускорение браузера**
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/shop-fix.jpg">
