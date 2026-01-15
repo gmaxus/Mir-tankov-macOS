@@ -2,10 +2,12 @@
 
 Данная сборка позволяет играть в Мир танков без виртуальной Windows в 1 клик на macOS с Apple silicon и Intel процессором.
 
-* [Поддерживает установку модов](#установка-модов)
-* [Настройки для Intel/AMD/Hackintosh](#настройки-для-intel)
-* [Реплеи](#реплеи)
+* [Установка модов](#установка-модов)
 * [Шрифты (DXMT)](#DXMT)
+* [Реплеи](#реплеи)
+* [Не удаётся установить соединение с сервером](#ошибка-соединения)
+* [Настройки для Intel/AMD/Hackintosh](#настройки-для-intel)
+* [Установка на внешний диск (IntelAMD/Hackintosh)](#установка-на-внешний-диск)
 
 Видео с геймплеем (иконки кликабельны):
 
@@ -18,6 +20,13 @@
 
 ## Установка
 Скачайте и следуйте инструкциям установщика
+
+Для Apple silicon
+``` text
+http://thisismypage.ru/git/tanki-v4.1.pkg
+```
+
+Для Intel/AMD/Hacintosh
 ``` text
 http://thisismypage.ru/git/tanki-v4.1.dmg
 ```
@@ -129,3 +138,17 @@ ln -s "/Applications/Мир танков.app/Contents/SharedSupport/prefix/drive
 Выбрать **галочку**
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/dxmt/3.jpg">
+
+
+# Ошибка соединения
+
+Если вы видите такое сообщение при попытке подключиться к серверу:
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/connection-error.png">
+
+Сделайте слудующее:
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/0.jpg">
+
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/1.jpg">
