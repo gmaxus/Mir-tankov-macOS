@@ -146,9 +146,12 @@ ln -s "/Applications/Мир танков.app/Contents/SharedSupport/prefix/drive
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/connection-error.png">
 
+Включите общий доступ
+
 Сделайте слудующее:
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/0.jpg">
 
+Переключатель должен быть активен
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/1.jpg">
