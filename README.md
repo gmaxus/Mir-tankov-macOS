@@ -155,3 +155,28 @@ ln -s "/Applications/Мир танков.app/Contents/SharedSupport/prefix/drive
 Переключатель должен быть активен
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/1.jpg">
+
+
+Если включение общего доступа не помогло, введите это в терминале:
+
+``` text
+sudo sed -i.bak "s/^127.0.0.1.*/127.0.0.1 localhost $(hostname)/" /etc/hosts
+```
+
+Или если вы знаете что делаете, поправьте команду соответственно с вашим hosts
+
+Эта команда изменяет строку:
+
+``` text
+127.0.0.1	localhost
+```
+на:
+
+``` text
+127.0.0.1	localhost	Maksims-MacBook-Pro.local
+```
+
+где:
+* 127.0.0.1 – ваш дефолтный локальный айпи
+* localhost – дефолтный локальный хостнэйм
+* Maksims-MacBook-Pro.local – локальный хостнэйм
