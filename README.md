@@ -11,7 +11,7 @@
 ### Ошибки
 * [Красный треугольник](#ошибка-леста-гейм-центра)
 
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/lgc-error.jpg" width="300px"/>
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/lgc-error.jpg" width="400px"/>
 
 
 * [Не удаётся установить соединение с сервером](#ошибка-соединения)
