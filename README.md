@@ -5,9 +5,18 @@
 * [Установка модов](#установка-модов)
 * [Шрифты (DXMT)](#DXMT)
 * [Реплеи](#реплеи)
-* [Не удаётся установить соединение с сервером](#ошибка-соединения)
 * [Настройки для Intel/AMD/Hackintosh](#настройки-для-intel)
 * [Установка на внешний диск (Intel/AMD/Hackintosh)](#установка-на-внешний-диск)
+
+### Ошибки
+* [Красный треугольник](#ошибка-леста-гейм-центра)
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/lgc-error.jpg" width="300px"/>
+
+
+* [Не удаётся установить соединение с сервером](#ошибка-соединения)
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/connection-error.png">
 
 Видео с геймплеем (иконки кликабельны):
 
@@ -180,3 +189,9 @@ sudo sed -i.bak "s/^127.0.0.1.*/127.0.0.1 localhost $(hostname)/" /etc/hosts
 * 127.0.0.1 – ваш дефолтный локальный айпи
 * localhost – дефолтный локальный хостнэйм
 * Maksims-MacBook-Pro.local – локальный хостнэйм
+
+# Ошибка Леста гейм центра
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/lgc-error.jpg"/>
+
+1. У вас недостаточно свободного места на диске
+2. Если места достаточно – перезагрузитесь и запустите установку заново
