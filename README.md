@@ -36,7 +36,7 @@ http://thisismypage.ru/git/tanki-v4.1.dmg
 |-----------------------------------------|:------:|
 | Публичная Apple silicon (github)        | 4.4.1  |
 | Публичная Intel/AMD/Hackintosh (github) |  4.1   |
-| Версия с ЛГЦ* и МОСТ (boosty)           |  4.4   |
+| Версия с ЛГЦ* и МОСТ (boosty)           | 4.4.1  |
 | Бета-версия с ЛГЦ* и МОСТ (boosty)      |  4.5   |
 
     * Леcта Гейм Центр
