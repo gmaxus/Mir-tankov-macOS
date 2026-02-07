@@ -23,7 +23,7 @@
 
 Для Apple silicon
 ``` text
-http://thisismypage.ru/git/tanki-v4.4.pkg
+http://thisismypage.ru/git/tanki-v4.4.1.pkg
 ```
 
 Для Intel/AMD/Hacintosh
@@ -32,11 +32,12 @@ http://thisismypage.ru/git/tanki-v4.1.dmg
 ```
 
 ## Актуальные версии:
-| Описание                           | Версия |
-|------------------------------------|:------:|
-| Публичная (github)                 |  4.4   |
-| Версия с ЛГЦ* и МОСТ (boosty)      |  4.4   |
-| Бета-версия с ЛГЦ* и МОСТ (boosty) |  4.5   |
+| Описание                                | Версия |
+|-----------------------------------------|:------:|
+| Публичная Apple silicon (github)        | 4.4.1  |
+| Публичная Intel/AMD/Hackintosh (github) |  4.1   |
+| Версия с ЛГЦ* и МОСТ (boosty)           |  4.4   |
+| Бета-версия с ЛГЦ* и МОСТ (boosty)      |  4.5   |
 
     * Леcта Гейм Центр
 
