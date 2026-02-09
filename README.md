@@ -21,14 +21,14 @@
 ## Установка
 Скачайте и следуйте инструкциям установщика
 
-**Для Apple silicon**
+**Apple silicon**
 
 Если у вас уже установлена предыдущая сборка, то новая перекинет танки из старой и перекачивать не придётся
 ``` text
 http://thisismypage.ru/git/tanki-v4.4.1.pkg
 ```
 
-**Для Intel/AMD/Hacintosh**
+**Intel/AMD/Hacintosh**
 ``` text
 http://thisismypage.ru/git/tanki-v4.1.dmg
 ```
