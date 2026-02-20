@@ -11,15 +11,11 @@
 * [Установка на внешний диск (Intel/AMD/Hackintosh)](#установка-на-внешний-диск)
 * [Ошибки](#ошибки)
 
-Видео с геймплеем (иконки кликабельны):
+Видео с геймплеем:
 
+### [YouTube](https://www.youtube.com/watch?v=7CJCI_9IcEo)
 
-<a href="https://www.youtube.com/watch?v=7CJCI_9IcEo" target="_blank">
-  <img src="https://www.youtube.com/s/desktop/1b43e753/img/favicon_144x144.png" width="100px"/>
-</a>
-<a href="https://rutube.ru/video/de6cbdcc3d2ae8d2a3a0896d3e77643e" target="_blank">
-  <img src="https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg" width="100px"/>
-</a>
+### [Rutube](https://rutube.ru/video/de6cbdcc3d2ae8d2a3a0896d3e77643e)
 
 ## Установка
 Скачайте и следуйте инструкциям установщика
