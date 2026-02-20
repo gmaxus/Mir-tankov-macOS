@@ -13,11 +13,12 @@
 
 Видео с геймплеем (иконки кликабельны):
 
-<a href="https://rutube.ru/video/76e111d69eda2a9fe5c287d89f3c9aa7/" target="_blank">
-  <img src="https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg" width="100px"/>
+
+<a href="https://www.youtube.com/watch?v=7CJCI_9IcEo" target="_blank">
+  <img src="https://www.youtube.com/s/desktop/7CJCI_9IcEo/img/logos/favicon_144x144.png" width="100px"/>
 </a>
-<a href="https://youtu.be/3Efs_gGURyY" target="_blank">
-  <img src="https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png" width="100px"/>
+<a href="https://rutube.ru/video/de6cbdcc3d2ae8d2a3a0896d3e77643e" target="_blank">
+  <img src="https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg" width="100px"/>
 </a>
 
 ## Установка
