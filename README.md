@@ -5,6 +5,7 @@
 Также на [бусти](#мой-бусти) размещены сборки с работаюбщим Леста гейм центром и МОСТом(менеджер модов).
 
 * [Установка модов](#установка-модов)
+* [Как установить Общий тест (только для версии с Леста Гейм Центром)](#общий-тест)
 * [Шрифты (DXMT)](#DXMT)
 * [Реплеи](#реплеи)
 * [Настройки для Intel/AMD/Hackintosh](#настройки-для-intel)
@@ -13,9 +14,9 @@
 
 Видео с геймплеем:
 
-### [YouTube](https://www.youtube.com/watch?v=7CJCI_9IcEo)
+#### [YouTube](https://www.youtube.com/watch?v=7CJCI_9IcEo)
 
-### [Rutube](https://rutube.ru/video/de6cbdcc3d2ae8d2a3a0896d3e77643e)
+#### [Rutube](https://rutube.ru/video/de6cbdcc3d2ae8d2a3a0896d3e77643e)
 
 ## Установка
 Скачайте и следуйте инструкциям установщика
@@ -41,15 +42,24 @@ http://thisismypage.ru/git/tanki-v4.1.dmg
 | С Леcта Гейм Центром          |  4.5   |    Apple silicon    |   Boosty    |
 
 ## Мой бусти
-Если хотите отблагодарить меня за проделанную работу.
+Проектом занимаюсь из-за вашей финансовой поддержки, если она прекратится то и проект умрёт.
 
-А также здесь располагается дополнительный платный контент.
+Если хотите отблагодарить меня за проделанную работу, а также здесь располагается дополнительный платный контент:
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 
 # Внутренний магазин
 Чтобы отображался магазин отключите **Аппаратное ускорение браузера**
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/shop-fix.jpg">
+
+# Общий тест
+Чтобы установить **Общий тест** когда он становится доступным, сделайте следующее:
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/pt/1.jpg">
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/pt/2.jpg">
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/pt/3.jpg">
 
 # Ошибки
 * [Красный треугольник](#ошибка-леста-гейм-центра)
