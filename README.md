@@ -169,7 +169,7 @@ ln -s "/Applications/Мир танков.app/Contents/SharedSupport/prefix/drive
 
 Включите общий доступ
 
-Сделайте слудующее:
+Сделайте следующее:
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/connection-error/0.jpg">
 
