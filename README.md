@@ -18,7 +18,15 @@
 
 #### [Rutube](https://rutube.ru/video/de6cbdcc3d2ae8d2a3a0896d3e77643e)
 
+
+
 ## Установка
+
+## В данный момент, после обновления 1.41 наблюдается следующее сообщение. Ищется решение
+
+<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/no-lesta-no-honey.jpg">
+
+
 Скачайте и следуйте инструкциям установщика
 
 **Apple silicon**
@@ -30,8 +38,10 @@ http://thisismypage.ru/git/tanki-v4.4.1.pkg
 
 **Intel/AMD/Hacintosh**
 ``` text
-http://thisismypage.ru/git/tanki-v4.1.dmg
+http://thisismypage.ru/git/tanki-v4.1.pkg
 ```
+
+ 
 
 ## Актуальные версии:
 | Описание                      | Версия |      Процессор      | Дистрибуция |
