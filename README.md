@@ -32,7 +32,7 @@
 
 **Intel/AMD/Hacintosh**
 ``` text
-http://thisismypage.ru/git/tanki-v4.1.dmg
+http://git.thisismypage.ru/download/TeWQVSxBKyGXFPMfTQpzK4SPjLjMirnP3r7c70CVTjsSqtCLhLkdFwAVNedbWfv8
 ```
 
 ## Актуальные версии:
