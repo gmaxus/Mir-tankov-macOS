@@ -25,7 +25,7 @@
 http://t.me/tmaxus
 
 
-Ниже версия для энтузиавтов и знающих что делают:
+Ниже версия для энтузиастов:
 
 **Apple silicon / Intel / AMD / Hackintosh**
 ``` text
