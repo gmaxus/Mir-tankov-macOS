@@ -6,8 +6,6 @@
 * [Как установить Общий тест](#общий-тест)
 * [Шрифты (DXMT)](#DXMT)
 * [Реплеи](#реплеи)
-* [Настройки для Intel/AMD/Hackintosh](#настройки-для-intel)
-* [Установка на внешний диск (Intel/AMD/Hackintosh)](#установка-на-внешний-диск)
 * [Ошибки](#ошибки)
 
 Видео с геймплеем:
@@ -126,39 +124,6 @@ http://git.thisismypage.ru/download/TeWQVSxBKyGXFPMfTQpzK4SPjLjMirnP3r7c70CVTjsS
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/11.jpg">
 
 <img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/12.jpg">
-
-# Установка на внешний диск
-
-1. Перенесите Мир танков и Обновить танки в **Applications**
-2. Запустите файл **Команда**
-3. Перенесите Мир танков и Обновить танки в **необходимое вам место**
-4. Далее все действия производить в папке в которую перенесли 
-5. Запустите **Обновить танки**
-6. Дождитесь завершения загрузки Танков
-7. Закройте **Обновить танки**
-8. Запустите **Мир Танков**
-
-Для обновления используйте **Обновить танки**
-
-
-# Настройки для Intel
-
-Нажать **Показать содержимое пакета**
-
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/intel/1.jpg">
-
-Запустить **Kegworks Config.app**
-
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/intel/2.jpg">
-
-Убрать **галочку**
-
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/intel/3.jpg">
-
-На владке **Advanced** добавить галочку **MoltenVK FastMath** 
-
-<img src="https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/intel/4.jpg">
-
 
 # Реплеи
 
