@@ -24,7 +24,7 @@
 
 **Apple silicon / Intel / AMD / Hackintosh**
 ``` text
-[http://git.thisismypage.ru/download/TeWQVSxBKyGXFPMfTQpzK4SPjLjMirnP3r7c70CVTjsSqtCLhLkdFwAVNedbWfv8](https://playmac.ru/game/mir-tankov-free/download/NoKz5IG0qIAumCTAOMokbyqlltt5lwvj2t9P4bbFWf01Hi9xLH1oRnKr7wUKzdsx)
+https://playmac.ru/game/mir-tankov-free/download/NoKz5IG0qIAumCTAOMokbyqlltt5lwvj2t9P4bbFWf01Hi9xLH1oRnKr7wUKzdsx
 ```
 
 ## Актуальные версии:
