@@ -33,7 +33,7 @@ https://boosty.to/bmaxus
 
 **Apple silicon / Intel / AMD / Hackintosh**
 ``` text
-https://playmac.ru/game/mir-tankov-free/download/NoKz5IG0qIAumCTAOMokbyqlltt5lwvj2t9P4bbFWf01Hi9xLH1oRnKr7wUKzdsx
+https://playmac.ru/game/mir-tankov-free/download/6XumdjISn0eZiWhpYYJMWidUS5SD243hn77OrYFIkh3mqXQf1qXb8qBqRulUsYH6
 ```
 
 ## Актуальные версии:
